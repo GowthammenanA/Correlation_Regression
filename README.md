@@ -21,7 +21,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-name : GOWTHAMMENAN A
+NAME : GOWTHAMMENAN A
 REF NO: 212225040100
 ```
 ```python 
